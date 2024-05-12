@@ -1,5 +1,5 @@
 // Set the target date
-const targetDate = new Date('2024-05-12T20:23:00').getTime();
+const targetDate = new Date('2024-05-13T00:00:00').getTime();
 
 // Function to display fireworks
 function fireworks() {
