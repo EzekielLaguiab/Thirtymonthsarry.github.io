@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(47, 170, 47);
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    text-align: center;
+    margin-top: 100px;
+    color: aliceblue;
+  }
+  
+  #progress-bar {
+    width: 50%;
+    
+    background-color: rgb(41, 70, 232);
+    border-radius: 20px;
+    margin: auto;
+    margin-bottom: 20px;
+  }
+  
+  #progress {
+    height: 20px;
+    background-color: #ddd;
+    border-radius: 20px;
+  }
+  
+  #timer {
+    font-size: 36px;
+    color: aliceblue;
+  }
+  
